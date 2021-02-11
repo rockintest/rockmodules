@@ -1,0 +1,3 @@
+- print:
+  params:
+    msg: This is a message
